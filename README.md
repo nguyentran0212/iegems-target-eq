@@ -9,7 +9,7 @@ Frequency response plays a significant role in the sound quality and characteris
 
 ## In-Ear Gems Target
 
-![/Target/IEGems_V1/target.png]
+![target](Target/IEGems_V1/target.png)
 
 The curve has been developed based on elements from different IEMs that provides different aspects of the described criteria:
 - 64 Audio U12t: natural, comfortable rendering of midrange, 3D soundstage illusion
@@ -19,10 +19,10 @@ The curve has been developed based on elements from different IEMs that provides
 - Dunu SA6: smooth and comfortable sound, handling of sibilance
 
 Comparisons:
-![Target/IEGems_V1/vs-u12t.png]
-![Target/IEGems_V1/vs-trio.png]
-![Target/IEGems_V1/vs-sa6.png]
-![Target/IEGems_V1/vs-e5000.png]
+![vsU12t](Target/IEGems_V1/vs-u12t.png)
+![vsTrio](Target/IEGems_V1/vs-trio.png)
+![vsSA6](Target/IEGems_V1/vs-sa6.png)
+![vsE5000](Target/IEGems_V1/vs-e5000.png)
 
 ## EQ Profiles
 
