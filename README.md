@@ -9,7 +9,7 @@ Frequency response plays a significant role in the sound quality and characteris
 
 ## In-Ear Gems Target
 
-![Target/IEGems_V1/target.png]
+![/Target/IEGems_V1/target.png]
 
 The curve has been developed based on elements from different IEMs that provides different aspects of the described criteria:
 - 64 Audio U12t: natural, comfortable rendering of midrange, 3D soundstage illusion
