@@ -41,6 +41,7 @@ Upgrade (noticeable improvement in soundstage and comfort)
 - Aria
 - A4000
 - FH3
+- FD5: The stage seems to get closer, but more layered. Apparent with "And the waltz goes on".
 
 Sidegrade
 - Titan S: sound becomes fuller but also a bit boomy and the stage becomes a little deeper but not as 3D as expected.
